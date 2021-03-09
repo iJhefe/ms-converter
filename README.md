@@ -17,5 +17,7 @@
 ##### Examples
 
 `ms(2, 'years')`
-`fromMs(180000, 'minutes)`
+
+`fromMs(180000, 'minutes')`
+
 `fromMs(ms(2, 'minutes'), 'day')`
