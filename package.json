@@ -4,7 +4,7 @@
   "description": "",
   "main": "dist/main.js",
   "types": "dist/main.d.ts",
-  "repository": "https://github.com/iJhefe/ioredis-aux.git",
+  "repository": "https://github.com/iJhefe/ms-converter",
   "author": "iJhefe <jeffytersaraiva@gmail.com>",
   "license": "MIT",
   "files": [
